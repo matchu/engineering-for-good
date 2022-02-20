@@ -22,17 +22,11 @@ Please read the [Code of Conduct](CODE_OF_CONDUCT.md) and [guidelines](CONTRIBUT
 
 - **[edX](https://www.edx.org/)**  | _Education_ | Cambridge, MA | **Remote friendly**? ✅ | [Current openings](https://boards.greenhouse.io/2uedx) | **Nonprofit**? ❌ | Increase access to high-quality education for everyone, everywhere; Enhance teaching and learning on campus and online; Advance teaching and learning through research
 
-- **[Humu](https://www.humu.com/)**  | _Human rights_ | Mountain View, CA | **Remote friendly**? ✅ | [Current openings](https://boards.greenhouse.io/humu) | **Nonprofit**? ❌ | Make work better, for everyone, everywhere
-
 - **[First Look Media](https://firstlook.media/)**  | _Public service_ | New York, NY | **Remote friendly**? ✅ | [Current openings](https://firstlook.media/careers) | **Nonprofit**? ❌ | Supporting independent voices, from fearless investigative journalism and documentary filmmaking to smart, provocative entertainment
 
 - **[FREE THE WORK](https://freethework.com/)**  | _Human rights_ | Los Angeles, CA | **Remote friendly**? ✅ | [Current openings](https://freethework.com/jobs) | **Nonprofit**? ✅ | Identifying systemic inequalities in film, television, advertising, and media, and finding actionable solutions to expand access for underrepresented creators
 
-- **[GoodRx](https://www.goodrx.com/)**  | _Health_ | Santa Monica, CA | **Remote friendly**? ✅ | [Current openings](https://www.goodrx.com/jobs/openings/) | **Nonprofit**? ❌ | Help people get the healthcare they need at a price they can afford
-
 - **[Guild Education](https://www.guildeducation.com/)**  | _Education_ | Denver, CO | **Remote friendly**? ✅ | [Current openings](https://www.guildeducation.com/about-us/careers/) | **Nonprofit**? ❌ | Unlock opportunity for America’s workforce through education and upskilling with a double bottom line business model that does well by doing good
-
-- **[Khan Academy](https://www.khanacademy.org/)**  | _Education_ | Mountain View, CA | **Remote friendly**? ✅ | [Current openings](https://www.khanacademy.org/careers#openings) | **Nonprofit**? ✅ | To provide a free, world-class education to anyone, anywhere
 
 - **[Kiva](https://www.kiva.org/)**  | _Human rights_ | San Francisco, CA | **Remote friendly**? ✅ | [Current openings](https://www.careers.kiva.org/) | **Nonprofit**? ✅ | A financially inclusive world where all people hold the power to improve their lives
 
